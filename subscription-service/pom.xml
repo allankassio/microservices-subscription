@@ -17,7 +17,7 @@
     <name>subscription-service</name>
     <description>subscription-service</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>17</java.version>
         <spring-cloud.version>2020.0.3</spring-cloud.version>
     </properties>
     <dependencies>
