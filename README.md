@@ -1,9 +1,9 @@
 # microservices-subscription
-
 This system was implemented through independent microservices to enable subscriptions. This system allows for layers of reuse. Architecturally, the system is divided into a public layer, which can be consulted and accessed by other systems and graphical interfaces. And by a security-encapsulated layer, which accesses the databases and allows communication between services and the public layer.
 
 ## System Architecture Design
-Put here a single chart with basic architeture
+![alt text](https://github.com/allankassio/microservices-subscription/blob/main/docs/diagrams/microservices-subscription-diagram.jpg)
+
 
 
 ## Public Layer
